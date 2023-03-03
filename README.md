@@ -1,4 +1,8 @@
+![](./cover.jpg)
+
 Example code demonstrating the use of icon spritesheets in Vue.
+
+-> [ajithranka/icon-spritesheets](https://ajithranka/icon-spritesheets)
 
 ## Developement
 
