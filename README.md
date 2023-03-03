@@ -2,7 +2,7 @@
 
 Example code demonstrating the use of icon spritesheets in Vue.
 
--> [ajithranka/icon-spritesheets](https://ajithranka/icon-spritesheets)
+See [ajithranka/icon-spritesheets](https://ajithranka/icon-spritesheets).
 
 ## Developement
 
