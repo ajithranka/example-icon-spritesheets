@@ -1,6 +1,4 @@
-Example code demonstrating how to create and use icon spritesheets.
-
-Checkout the [detailed article](https://ajithranka/icon-spritesheets).
+Example code demonstrating the use of icon spritesheets in Vue. Checkout the [detailed article](https://ajithranka/icon-spritesheets).
 
 ## Developement
 
